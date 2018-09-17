@@ -1,4 +1,4 @@
-package soundsystem;
+package autoconfig.soundsystem;
 import org.springframework.stereotype.Component;
 
 @Component("lonlyHeartsClub") //为组件扫描的bean命名

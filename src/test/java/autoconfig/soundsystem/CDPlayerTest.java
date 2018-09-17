@@ -1,4 +1,4 @@
-package soundsystem;
+package autoconfig.soundsystem;
 
 import org.junit.Assert;
 import org.junit.Rule;
